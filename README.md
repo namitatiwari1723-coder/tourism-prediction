@@ -1,1 +1,1 @@
-# tourism-prediction
+easyvisa-prediction
